@@ -42,5 +42,4 @@ Valid Input- Recommended books will be shown.
 Click Recommend Similar Books- Similar type of books will be shown.
 
 ## Screenshot
-![Project screenshot](Java Programing Language/Project screenshot.png)
-
+![Project Screenshot](screenshots/Project screenshot.png)
