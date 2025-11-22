@@ -4,7 +4,7 @@ A Python Tkinter GUI Project for recommendation books based on user search.
 Developed by: Princy Mahajan
 Course: B.Tech CSE (1st Year), VIT Bhopal University  
 
-##  Overview
+## Overview
 The *Library Book Recommendation System* is a Python GUI project that helps users search books and get recommendations based on genre similarity.  
 It works like a simple digital library where users can:
 - Search by *title, author, or genre*.
@@ -13,20 +13,20 @@ It works like a simple digital library where users can:
 
 The software is built using *Python and Tkinter* without external databases.
 
-##  Features
+## Features
 -  Search books by *keyword*
 -  Auto-list all genres if search input is empty
 -  Suggest similar books based on *genre*
 -  Smart alerts for invalid selections
 -  Simple and clean GUI
 
-## 🛠Technologies Used
+## Technologies Used
 Component: Technology
 Programming Language: Python
 GUI Framework: Tkinter
 List of Dictionaries
 
-##  Installation & Execution
+## Installation & Execution
 *Step 1 — Install Python*
 Ensure Python 3.8+ is installed.
 
@@ -37,7 +37,7 @@ python --version
 Type - python book_app.py
 
 ## Testing Instructions
-Empty Search- Display all genres
+Empty Search- Display all genres.
 Valid Input- Recommended books will be shown.
 Click Recommend Similar Books- Similar type of books will be shown.
 
