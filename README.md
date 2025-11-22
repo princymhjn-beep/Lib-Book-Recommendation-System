@@ -42,4 +42,4 @@ Valid Input- Recommended books will be shown.
 Click Recommend Similar Books- Similar type of books will be shown.
 
 ## Screenshot
-![Project screenshot](Screenshots/Project%20screenshot.png)
+![Project screenshot](Screenshots/Project_screenshot.png)
