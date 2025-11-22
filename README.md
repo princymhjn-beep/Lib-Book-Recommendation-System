@@ -40,6 +40,3 @@ Type - python book_app.py
 Empty Search- Display all genres.
 Valid Input- Recommended books will be shown.
 Click Recommend Similar Books- Similar type of books will be shown.
-
-## Screenshot
-Project_screenshot.png
