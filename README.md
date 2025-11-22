@@ -41,5 +41,6 @@ Empty Search- Display all genres.
 Valid Input- Recommended books will be shown.
 Click Recommend Similar Books- Similar type of books will be shown.
 
-## ScreenShots
+## Screenshot
+![Project Screenshot](screenshots/Project screenshot.png)
 
